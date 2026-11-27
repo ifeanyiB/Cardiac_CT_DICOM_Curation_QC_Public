@@ -1,0 +1,14 @@
+# Core DICOM image processing and visualization
+numpy
+matplotlib
+pydicom
+
+# Image processing and analysis
+scipy
+scikit-image
+
+# Interactive notebook controls
+ipywidgets
+
+# Notebook environment
+jupyter

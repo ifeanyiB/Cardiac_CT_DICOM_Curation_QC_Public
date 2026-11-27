@@ -1,0 +1,17 @@
+# Local DICOM data and other dataset files
+Data/
+*.dcm
+*.dicom
+
+# Jupyter checkpoints and runtime files
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Operating system files
+.DS_Store
+Thumbs.db
